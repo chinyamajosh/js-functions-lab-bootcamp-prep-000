@@ -4,5 +4,5 @@ function happyHolidays(string) {
   return string
 }
 
-happyHolidays('Happy holidays!')
+happyHolidays("Happy holidays!")
 
